@@ -1,0 +1,51 @@
+#top-bar {
+    display: inline;
+}
+
+.top-left {
+    float: left;
+    margin-right: 20px;
+}
+
+.top-right {
+    float: right;
+    margin-right: 20px;
+}
+
+#sign-in {
+    background-color: #4386f9;
+}
+
+#center {
+
+}
+
+#logo {
+    display: block;
+}
+
+#form {
+    display: block;
+}
+
+#uno {
+    display: inline-block;
+}
+
+#dos {
+    display: inline-block;
+}
+
+#footer {
+    position: absolute;
+    margin-bottom: 0px;
+}
+
+.bottom-left {
+    float: left;
+}
+
+.bottom-right {
+    
+    float: right;
+}
